@@ -1,4 +1,4 @@
-![first](https://github.com/user-attachments/assets/3507bc99-dffa-4f82-80c5-7932a7fd4c9b)# Garage-management-system
+# Garage-management-system
 
 Garage Go is a web-based garage management system developed using HTML, CSS, JavaScript, PHP, XAMPP, Apache, and a MySQL database. It offers a user-friendly interface to efficiently manage different aspects of a garage, including customer information, vehicle details, service history, and billing. The system ensures streamlined operations and easy access to essential data for both garage owners and employees.
 
